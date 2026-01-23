@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:4facfe,100:00f2fe\&height=200\&section=header\&text=Lucía%20Morales%20Cornejo%20👩‍💻\&fontSize=40\&fontColor=ffffff)
 
 ## 👋 Sobre mí
 
