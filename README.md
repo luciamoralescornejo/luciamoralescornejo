@@ -22,12 +22,8 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
 </p>
-
-**Herramientas:**
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
 
 ---
 
