@@ -24,7 +24,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
 
 **Herramientas:**
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
 
 ---
@@ -38,7 +37,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 
 ## 📊 GitHub Stats
 
-![Lucía's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciamoralescornejo\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamoralescornejo\&layout=compact\&theme=tokyonight)
 
 ---
