@@ -11,17 +11,20 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 
 ---
 
-## 🛠️ Tecnologías
+<h2>🛠️ Tecnologías</h2>
 
-**Lenguajes y Frameworks:**
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square\&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square\&logo=spring)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square\&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+</p>
 
 **Herramientas:**
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
