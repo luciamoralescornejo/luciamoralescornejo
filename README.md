@@ -37,6 +37,3 @@ Soy desarrolladora apasionada por crear soluciones con código limpio y eficient
 
 ---
 
-## ✨ Frase que me representa
-
-> *"Primero lo hago funcionar, luego lo hago bonito, después lo hago rápido."*
