@@ -29,8 +29,8 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 
 ## 🌍 Idiomas
 
-* 🇪🇸 Español — Nativo
-* 🇬🇧 Inglés — B1 (Trinity College London – ISE I)
+* Español — Nativo
+* Inglés — B1 (Trinity College London – ISE I)
 
 ---
 
