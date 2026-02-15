@@ -34,12 +34,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamoralescornejo\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Enlaces
 
 * 💼 LinkedIn:
