@@ -36,7 +36,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo backend y frontend, c
 
 ## 🌐 Enlaces
 
-* 💼 LinkedIn:
-  [https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a](https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a)
-* 🌍 Portfolio:
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a)
+* 🌍 Portfolio como freelance:
   *Próximamente*
