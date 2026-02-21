@@ -18,6 +18,7 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" title="GitHub"/>
@@ -50,7 +51,7 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn"/>
   </a>
   <a href="https://portfolioweblucia.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="Portfolio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" title="Portfolio"/>
   </a>
   <a href="https://github.com/luciamoralescornejo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
@@ -62,5 +63,3 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 ## 🚀 Sobre mí
 
 Me apasiona transformar ideas en aplicaciones reales, resolver problemas complejos mediante código limpio y mejorar constantemente mis habilidades en desarrollo full stack. Siempre busco oportunidades para colaborar en proyectos innovadores y aprender de cada desafío.  
-
----
