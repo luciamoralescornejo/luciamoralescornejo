@@ -35,15 +35,6 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciamoralescornejo&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamoralescornejo&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Encuéntrame en línea
 
 <p align="center">
@@ -52,9 +43,6 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
   </a>
   <a href="https://portfolioweblucia.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" title="Portfolio"/>
-  </a>
-  <a href="https://github.com/luciamoralescornejo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
   </a>
 </p>
 
