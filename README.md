@@ -9,7 +9,7 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 ---
 
-## 🛠️ Tecnologías , Prgramas & Herramientas
+## 🛠️ Tecnologías , Programas & Herramientas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title="Java"/>
@@ -26,7 +26,6 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" title="Visual Studio 2022"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="60" title="NetBeans"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL Workbench"/>
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="60" title="XAMPP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" title="PyCharm"/>
