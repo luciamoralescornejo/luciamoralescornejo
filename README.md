@@ -38,7 +38,6 @@ Soy una apasionada del desarrollo de software enfocada en crear soluciones efici
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciamoralescornejo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamoralescornejo&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
