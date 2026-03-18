@@ -53,8 +53,12 @@ Soy una apasionada del desarrollo de software enfocada en crear soluciones efici
 
 ### 🤝 Conectemos
 <p align="left">
-<a href="https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucía Morales" height="30" width="40" /></a>
-<a href="https://portfolioweblucia.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Lucía Morales" height="30" width="40" />
+</a>
+<a href="https://portfolioweblucia.vercel.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/internet--v1.png" alt="Portfolio Web" height="28" width="30" />
+</a>
 </p>
 
 ---
