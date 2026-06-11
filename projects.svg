@@ -31,7 +31,7 @@
 
   <g transform="translate(0, 30)">
     <rect x="44" y="195" width="52" height="22" rx="11" fill="none" stroke="#ED8B00" stroke-width="1.2"/>
-    <text x="70" y="210" class="tag" fill="#ED8B00">Spring Boot</text>
+    <text x="70" y="210" class="tag" fill="#ED8B00">Spring</text>
 
     <rect x="110" y="195" width="94" height="22" rx="11" fill="none" stroke="#3DDC84" stroke-width="1.2"/>
     <text x="157" y="210" class="tag" fill="#3DDC84">Android Studio</text>
