@@ -27,9 +27,6 @@
 
 ![Proyectos](projects.svg)
 
-[![BeatSound GitHub](https://img.shields.io/badge/🎬_BeatSound-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/luciamoralescornejo/BeatSound)
-[![MIXTAPE GitHub](https://img.shields.io/badge/📼_MIXTAPE-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/luciamoralescornejo/MIXTAPE)
-
 </div>
 
 <!--ESTADÍSTICAS DE GITHUB-->
@@ -49,9 +46,6 @@
 </table>
 
 ![Racha de GitHub](https://streak-stats.demolab.com?user=luciamoralescornejo&theme=github-dark-blue&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&border=21262d&locale=es)
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=luciamoralescornejo&color=7C3AED&style=for-the-badge&label=VISITAS+AL+PERFIL)
-
 </div>
 
 <!--IDIOMAS-->
@@ -71,8 +65,8 @@
 
 ## 📬 Hablemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciamoralescornejo)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciamoralescornejo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-morales-cornejo-05808b38a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciamoralescornejo2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciamoralescornejo)
 
 </div>
