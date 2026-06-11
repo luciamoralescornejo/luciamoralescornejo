@@ -1,54 +1,82 @@
-# 👋 ¡Hola! Soy Lucía Morales 
-### 🚀 Técnica Superior en DAM | Full Stack Developer en formación
+<!--BANNER-->
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Mobile-blue?style=for-the-badge" alt="Focus">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Luc%C3%ADa+Morales+%F0%9F%91%8B;Full+Stack+Developer+en+formaci%C3%B3n;T%C3%A9cnica+Superior+en+DAM+%F0%9F%8E%93;Escribiendo+c%C3%B3digo+limpio+%E2%9C%A8)](https://git.io/typing-svg)
 
-Soy una apasionada del desarrollo de software enfocada en crear soluciones eficientes, escalables y con código limpio. Mi formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** me ha permitido dominar el ciclo de vida del software, desde la base de datos hasta la interfaz de usuario.
+</div>
 
----
+<!--ABOUT ME-->
+<div align="center">
 
-### 🛠️ Toolbox Tecnológico
+> *"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."* — Michael Feathers
 
-**💻 Lenguajes & Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciamoralescornejo)
+[![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Mobile-5B21B6?style=for-the-badge&logoColor=white)](https://github.com/luciamoralescornejo)
 
-**🌐 Frontend & Web**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Apasionada del desarrollo de software enfocada en crear soluciones eficientes, escalables y con código limpio.  
+Mi formación en **DAM** me ha permitido dominar el ciclo de vida del software, desde la base de datos hasta la interfaz de usuario.
 
-**🗄️ Bases de Datos & DevOps**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**🔧 Herramientas de Desarrollo**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamoralescornejo&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+<!--TECH STACK-->
+<div align="center">
+
+## 🔧 Tools I Build With
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,spring,javascript,html,css,mysql,mongodb,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,git&perline=10)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 🌍 Idiomas
+<!--GITHUB STATS-->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luciamoralescornejo&show_icons=true&theme=github_dark&title_color=7C3AED&icon_color=7C3AED&border_color=21262d&hide_border=false&bg_color=0d1117&text_color=ffffff" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luciamoralescornejo&layout=compact&theme=github_dark&title_color=7C3AED&border_color=21262d&bg_color=0d1117&text_color=ffffff&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=luciamoralescornejo&theme=github-dark-blue&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&border=21262d)
+
+![Profile Views](https://komarev.com/ghpvc/?username=luciamoralescornejo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<!--LANGUAGES-->
+<div align="center">
+
+## 🌍 Idiomas
+
 | Lengua | Nivel | Certificación |
-| :--- | :--- | :--- |
-| **Español** | Nativo | — |
-| **Inglés** | B1 (Intermedio) | Trinity College London – ISE I |
+| :---: | :---: | :---: |
+| 🇪🇸 **Español** | Nativo | — |
+| 🇬🇧 **Inglés** | B1 Intermedio | Trinity College London – ISE I |
+
+</div>
 
 ---
 
-> "El código limpio siempre parece que ha sido escrito por alguien a quien le importa." — Michael Feathers
+<!--CONTACT-->
+<div align="center">
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciamoralescornejo)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciamoralescornejo@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciamoralescornejo)
+
+</div>
