@@ -22,32 +22,6 @@
 
 </div>
 
-<!--PROYECTOS-->
-<div align="center">
-
-![Proyectos](projects.svg)
-
-</div>
-
-<!--ESTADÍSTICAS DE GITHUB-->
-<div align="center">
-
-## 📊 Estadísticas de GitHub
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luciamoralescornejo&show_icons=true&theme=github_dark&title_color=7C3AED&icon_color=7C3AED&border_color=21262d&hide_border=false&bg_color=0d1117&text_color=ffffff&locale=es" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luciamoralescornejo&layout=compact&theme=github_dark&title_color=7C3AED&border_color=21262d&bg_color=0d1117&text_color=ffffff&langs_count=6&locale=es" />
-    </td>
-  </tr>
-</table>
-
-![Racha de GitHub](https://streak-stats.demolab.com?user=luciamoralescornejo&theme=github-dark-blue&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&border=21262d&locale=es)
-</div>
-
 <!--IDIOMAS-->
 <div align="center">
 
